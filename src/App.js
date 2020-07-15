@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+           Git101
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.youtube.com/channel/UC37m20SGisKW1HG-baE62Qg?view_as=subscriber"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Git with GChan and Ally
         </a>
       </header>
     </div>
